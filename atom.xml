@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Yun.Fan</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="https://dong.ge/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://dong.ge/"/>
   <updated>2020-08-11T02:43:28.983Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://dong.ge/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Dong.Ge</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>云.帆</title>
-    <link href="http://yoursite.com/2020/08/10/%E4%BA%91%E5%92%8C%E5%B8%86/"/>
-    <id>http://yoursite.com/2020/08/10/%E4%BA%91%E5%92%8C%E5%B8%86/</id>
+    <link href="https://dong.ge/2020/08/10/%E4%BA%91%E5%92%8C%E5%B8%86/"/>
+    <id>https://dong.ge/2020/08/10/%E4%BA%91%E5%92%8C%E5%B8%86/</id>
     <published>2020-08-10T09:54:14.000Z</published>
     <updated>2020-08-11T02:43:28.983Z</updated>
     
