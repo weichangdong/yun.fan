@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yun.fan/2020/10/16/%E8%B7%AF%E5%9C%A8%E4%BD%95%E6%96%B9/</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yun.fan/2020/10/14/%E8%8A%B3%E5%8D%8E/</loc>
     
     <lastmod>2020-10-14</lastmod>
@@ -291,7 +298,7 @@
 
   <url>
     <loc>https://yun.fan/</loc>
-    <lastmod>2020-10-14</lastmod>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
