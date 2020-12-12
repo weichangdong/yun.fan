@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>博客安居</title>
+    <link href="/2020-12-12/%E5%8D%9A%E5%AE%A2%E5%AE%89%E5%B1%85/"/>
+    <url>/2020-12-12/%E5%8D%9A%E5%AE%A2%E5%AE%89%E5%B1%85/</url>
+    
+    <content type="html"><![CDATA[<p>前一阵子买香港虚拟主机的念头特别强烈，最近恢复平静了。</p><p>这里列几个博客可以免费安家的办法，权当给自己的博客留后路了，万一哪家不让白嫖了，可以换下家。</p><a id="more"></a><p>github.io 我的 <a href="http://zhan.ge/">http://zhan.ge</a> 目前就是用的这个，可以自定义域名，特点是背靠大树好乘凉，是个长治久安的选择。缺点就是在国内访问很慢。如果你的博客受众是程序员，国际朋友，这个绝对是不二之选。</p><p>coding.net 我的 <a href="https://dong.ge/">https://dong.ge</a> <a href="https://yun.fan/">https://yun.fan</a> 就寄居于此。可以自定义域名，现在是被腾讯招安，一个劲地往腾讯云体系靠拢，我估计未来就会下逐客令了。节点也是在国外，新加坡，没办法，没有备案的域名，只能漂泊在外。</p><p><a href="https://netlify.com/">https://netlify.com</a> 和 <a href="https://vercel.com/">https://vercel.com</a>  也是不小的厂家，目前没有深入研究过。</p><p>上面说的都是不花钱的方案，如果花钱，可以选择虚拟主机，通过ftp上传。更贵点的是vps，云主机，可以登陆到Linux自己安装部署。<a href="http://letsgo.fun/">http://letsgo.fun</a> <a href="https://fenglangjuxu.com/">https://fenglangjuxu.com</a>  就是部署在腾讯云主机上，节点在北京，访问速度火箭般的嗖嗖的。</p><p>下面额外列几个世界上最好的语言——PHP的项目<br>xiunobbs 一个好看的bbs <a href="https://loc.cc/">https://loc.cc</a> 用的就是</p><p>polr 短网址生成</p><p>Z-BlogPHP 一个挺好的博客系统</p><p>typecho 一个简洁的博客系统</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>北京的冬天</title>
     <link href="/2020-12-11/%E5%8C%97%E4%BA%AC%E7%9A%84%E5%86%AC%E5%A4%A9/"/>
     <url>/2020-12-11/%E5%8C%97%E4%BA%AC%E7%9A%84%E5%86%AC%E5%A4%A9/</url>
