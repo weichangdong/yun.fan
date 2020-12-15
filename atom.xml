@@ -6,7 +6,7 @@
   <link href="http://yun.fan/atom.xml" rel="self"/>
   
   <link href="http://yun.fan/"/>
-  <updated>2020-12-14T01:59:30.697Z</updated>
+  <updated>2020-12-15T01:45:07.205Z</updated>
   <id>http://yun.fan/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一行代码惹的祸</title>
+    <link href="http://yun.fan/2020-12-15/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%83%B9%E7%9A%84%E7%A5%B8/"/>
+    <id>http://yun.fan/2020-12-15/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%83%B9%E7%9A%84%E7%A5%B8/</id>
+    <published>2020-12-15T00:44:46.000Z</published>
+    <updated>2020-12-15T01:45:07.205Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近半年出现了两次因为改了一行代码，而引发血案的操蛋事情。真是让人痛心疾首，追悔莫及。</p><a id="more"></a><p>改的时候信心满满，觉得肯定不会有问题。结果呢只是头痛医了头却没顾及心的感受，井水犯了河水。关键测试给的没问题的结论，也是草率，让bug在错误的道路上越走越远。尤其是上一次，特别明显，但是测试仅仅看了客户端的表现，却没有看后台的数据。</p><p>测试太信任我，我太信任测试，我也盲目自信。以后的改动一定注意上下文，不能顾此失彼，眼界要宽，不能就着眼于眼前的几行代码。也不能匆匆忙忙，否则很可能就是在南辕北辙，给自己挖坑。</p><p>循序渐进，有条不紊，匆忙留下陷阱只会让自己更匆忙更狼狈。当谨记教训，减少重蹈覆辙！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近半年出现了两次因为改了一行代码，而引发血案的操蛋事情。真是让人痛心疾首，追悔莫及。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>坦途,哪里会有坦途</title>
@@ -376,24 +393,6 @@
     
     
     <summary type="html">&lt;p&gt;说这句话是假如我能活到70+，我认为人活到70+，已经够了，后面的年月，如果拖泥带水，生活不能自理，还不如干脆潇洒的早赴黄泉。免得自己和家人受罪。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>维纳斯的美</title>
-    <link href="http://yun.fan/2020-11-28/%E7%BB%B4%E7%BA%B3%E6%96%AF%E7%9A%84%E7%BE%8E/"/>
-    <id>http://yun.fan/2020-11-28/%E7%BB%B4%E7%BA%B3%E6%96%AF%E7%9A%84%E7%BE%8E/</id>
-    <published>2020-11-27T18:11:57.000Z</published>
-    <updated>2020-11-28T06:30:36.185Z</updated>
-    
-    <content type="html"><![CDATA[<p>因为想让云帆变得更快,所以决定弃用之前的coding.net,购买了西部数码的付费转发,转发到了备案的fenglangjuxu.com上,但是却不支持https.没办法,凡事难得有十全十美,尽善尽美,那就接受这个残酷的现实了呗.</p><p>发扬我的阿Q精神,这是残缺的美.</p><a id="more"></a><p>之前有添加过友链的,如果介意没有https的,可以删掉. 私密马赛~.</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;因为想让云帆变得更快,所以决定弃用之前的coding.net,购买了西部数码的付费转发,转发到了备案的fenglangjuxu.com上,但是却不支持https.没办法,凡事难得有十全十美,尽善尽美,那就接受这个残酷的现实了呗.&lt;/p&gt;
-&lt;p&gt;发扬我的阿Q精神,这是残缺的美.&lt;/p&gt;</summary>
     
     
     
