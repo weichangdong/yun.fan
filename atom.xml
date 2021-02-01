@@ -6,7 +6,7 @@
   <link href="http://yun.fan/atom.xml" rel="self"/>
   
   <link href="http://yun.fan/"/>
-  <updated>2021-01-29T07:48:54.030Z</updated>
+  <updated>2021-02-01T03:35:10.275Z</updated>
   <id>http://yun.fan/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关键时候php助我一臂之力</title>
+    <link href="http://yun.fan/2021-02-01/%E5%85%B3%E9%94%AE%E6%97%B6%E5%80%99php%E5%8A%A9%E6%88%91%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B/"/>
+    <id>http://yun.fan/2021-02-01/%E5%85%B3%E9%94%AE%E6%97%B6%E5%80%99php%E5%8A%A9%E6%88%91%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B/</id>
+    <published>2021-02-01T03:33:28.000Z</published>
+    <updated>2021-02-01T03:35:10.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。</p><a id="more"></a><p>今天虽然是周日，还在想着如何解密三方的数据。三方并没有给出明确的加密解密算法，但是我们的产品居然牛逼的用网上在线的工具解密出来了。</p><p>这就不得不让我加急搞这个事情，因为等周一就想和三方调试了，如果我没把加解密搞定，就有点被动了。</p><p>已经已知加密用的aes ecb 128 ，有秘钥有返回的加密数据，搜了下网上挺多例子的，但是就是解不出来。</p><p>看了php代码，特别简单，就一行代码。但是用php也解不出来。</p><p>几次尝试都无疾而终。最多就是php 和golang可以互通。</p><p>最后看了php的一篇文章，收到了启发，用php试了下，终于OK了。</p><p>我草！</p><p>Php的OK了，go的不在话下了。</p><p>关键时候，还得靠我的压箱底绝技。</p><p>想起一首歌&lt;&lt;我们陕西木有撒&gt;&gt;的一句歌词:</p><figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">当年联军把皇帝撵 一路狂奔来西安 慈禧老佛爷进潼关 关键时候靠老陕</span><br></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>一个伤心的理由</title>
     <link href="http://yun.fan/2021-01-29/%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E7%90%86%E7%94%B1/"/>
     <id>http://yun.fan/2021-01-29/%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E7%90%86%E7%94%B1/</id>
     <published>2021-01-29T07:48:39.000Z</published>
-    <updated>2021-01-29T07:48:54.030Z</updated>
+    <updated>2021-01-29T07:49:05.318Z</updated>
     
     <content type="html"><![CDATA[<p>张学友的一万个伤心的理由，不知道有多伤心。而我这一个已经让我万念俱灰，伤心不已。不是我的错吧，又有我的错，可就算有别人的错，他们可是逍遥法外。</p><a id="more"></a><p>这次的伤有点重，不知道什么方法能疗伤。</p><p>表面光鲜，背后承受了太多让人心碎让人辛酸的事。</p><p>还有一些未知，希望能减轻我的负重。别人原谅我了，我会放过我自己么？</p><p>突然想起昨晚做的梦，两个噩梦，半夜都强迫自己醒了。每次噩梦，都会让自己这么做，因为陷在梦里，有时候真的很怕，很怕这不是梦。</p>]]></content>
     
@@ -339,23 +356,6 @@
 &lt;p&gt;com fenglangjuxu.com&lt;/p&gt;
 &lt;p&gt;net xuebiancheng.net hellokid&lt;/p&gt;
 &lt;p&gt;cn littlelemon.cn&lt;br&gt;自然不在话下。这三个除了com，别的两个已经很不喜欢了。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>KungFu.Run</title>
-    <link href="http://yun.fan/2020-12-20/KungFu-Run/"/>
-    <id>http://yun.fan/2020-12-20/KungFu-Run/</id>
-    <published>2020-12-20T01:52:42.000Z</published>
-    <updated>2020-12-21T03:28:51.214Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近域名瘾又发作了，对run后缀念念不忘。</p><a id="more"></a><p>今天群里看有人发kungfu.run，售价才28块。kungfu 身为一个对武侠热爱的尚武之人，岂能对功夫无动于衷？果断决定收编麾下。可是在yuming.fun 那发的西部数码和阿里云链接找，并没有这个域名，只有kungfu.plus，我想可能是卖家写错了。</p><p>抱着试试的心态，问了下，原来是已经过期，自动下架了。看来是准备放弃这个域名了。幸亏我的及时出现啊，要不然就会让明珠蒙尘，英雄末路啊。</p><p>最终续费后63 push给我了，恰逢我在去迪卡侬的路上，骑着hello单车，冻得瑟瑟发抖，准备接受push，结果app不支持这操作。</p><p>比较巧的是，上一次去迪卡侬正是我对yun.fan这个域名心心念念的时候，看到迪卡侬写的帆船二字，就更加深了对云舤的思念。而这次去云舤已经是我的人好久了，看到和Running相关的一些名词，对即将到来的kungfu.run多了一份喜欢。在迪卡侬买了几件衣服，合计666，用了一个3块钱的券，663，和买kungfu的63好有缘分。</p><p>关于Kungfu，很早之前还发生一件让人啼笑皆非的事情，刚接触域名，在22.cn上，三十多块钱买了koogfu.com，当时买下来欣喜若狂，想着功夫的com，那得多值钱啊，真是天上掉金饼了。某一瞬间发现，我擦，不是这个单词。</p><p>域名买错的，还不止这一次。还有一次买了个HelloKity.online，也把我高兴了一阵，最后仔细一看，比HelloKitty少一个字母。最后的结局就是弃置荒野，浪费了我的感情。</p><p>KungFu.Run，虽然来的代价很小，不像别的都花了近千或者上千，而且续费便宜，但是依然希望我能善待她，爱她久一些。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;最近域名瘾又发作了，对run后缀念念不忘。&lt;/p&gt;</summary>
     
     
     
