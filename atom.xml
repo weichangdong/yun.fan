@@ -6,7 +6,7 @@
   <link href="http://yun.fan/atom.xml" rel="self"/>
   
   <link href="http://yun.fan/"/>
-  <updated>2021-02-01T03:35:10.275Z</updated>
+  <updated>2021-02-01T03:36:02.184Z</updated>
   <id>http://yun.fan/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yun.fan/2021-02-01/%E5%85%B3%E9%94%AE%E6%97%B6%E5%80%99php%E5%8A%A9%E6%88%91%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B/"/>
     <id>http://yun.fan/2021-02-01/%E5%85%B3%E9%94%AE%E6%97%B6%E5%80%99php%E5%8A%A9%E6%88%91%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B/</id>
     <published>2021-02-01T03:33:28.000Z</published>
-    <updated>2021-02-01T03:35:10.275Z</updated>
+    <updated>2021-02-01T03:36:02.184Z</updated>
     
-    <content type="html"><![CDATA[<p>年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。</p><a id="more"></a><p>今天虽然是周日，还在想着如何解密三方的数据。三方并没有给出明确的加密解密算法，但是我们的产品居然牛逼的用网上在线的工具解密出来了。</p><p>这就不得不让我加急搞这个事情，因为等周一就想和三方调试了，如果我没把加解密搞定，就有点被动了。</p><p>已经已知加密用的aes ecb 128 ，有秘钥有返回的加密数据，搜了下网上挺多例子的，但是就是解不出来。</p><p>看了php代码，特别简单，就一行代码。但是用php也解不出来。</p><p>几次尝试都无疾而终。最多就是php 和golang可以互通。</p><p>最后看了php的一篇文章，收到了启发，用php试了下，终于OK了。</p><p>我草！</p><p>Php的OK了，go的不在话下了。</p><p>关键时候，还得靠我的压箱底绝技。</p><p>想起一首歌&lt;&lt;我们陕西木有撒&gt;&gt;的一句歌词:</p><figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">当年联军把皇帝撵 一路狂奔来西安 慈禧老佛爷进潼关 关键时候靠老陕</span><br></pre></td></tr></tbody></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。</p><a id="more"></a><p>今天虽然是周日，还在想着如何解密三方的数据。三方并没有给出明确的加密解密算法，但是我们的产品居然牛逼的用网上在线的工具解密出来了。</p><p>这就不得不让我加急搞这个事情，因为等周一就想和三方调试了，如果我没把加解密搞定，就有点被动了。</p><p>已经已知加密用的aes ecb 128 ，有秘钥有返回的加密数据，搜了下网上挺多例子的，但是就是解不出来。</p><p>看了php代码，特别简单，就一行代码。但是用php也解不出来。</p><p>几次尝试都无疾而终。最多就是php 和golang可以互通。</p><p>最后看了php的一篇文章，收到了启发，用php试了下，终于OK了。</p><p>我草！</p><p>Php的OK了，go的不在话下了。</p><p>关键时候，还得靠我的压箱底绝技。</p><p>想起一首歌&lt;&lt;我们陕西木有撒&gt;&gt;的一句歌词:</p><blockquote></blockquote><p>当年联军把皇帝撵 一路狂奔来西安 慈禧老佛爷进潼关 关键时候靠老陕</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。&lt;/p&gt;</summary>
