@@ -6,7 +6,7 @@
   <link href="http://yun.fan/atom.xml" rel="self"/>
   
   <link href="http://yun.fan/"/>
-  <updated>2021-03-17T02:06:12.543Z</updated>
+  <updated>2021-03-22T02:22:20.137Z</updated>
   <id>http://yun.fan/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>勇者无畏</title>
+    <link href="http://yun.fan/2021-03-22/%E5%8B%87%E8%80%85%E6%97%A0%E7%95%8F/"/>
+    <id>http://yun.fan/2021-03-22/%E5%8B%87%E8%80%85%E6%97%A0%E7%95%8F/</id>
+    <published>2021-03-22T02:22:08.000Z</published>
+    <updated>2021-03-22T02:22:20.137Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天小柠檬上学又哭的厉害了，晚上一提上学就开始哭，上学与她估计真的是很煎熬。可是她已经中班了。</p><a id="more"></a><p>不管是谁，心中都有自己的畏惧。可是有什么办法呢，有些事心中再不情愿，也没得逃避，路还是要走的。</p><p>看着眼前的草逐渐变得绿油油了，夏天应该快到了。而我还有好多事需要应付。</p><p>刚才输入法冒出苟且两个字，那我就用上它吧。勇敢面对生活工作的苟且，除了这样，还能怎么办呢。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;今天小柠檬上学又哭的厉害了，晚上一提上学就开始哭，上学与她估计真的是很煎熬。可是她已经中班了。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>重启running</title>
     <link href="http://yun.fan/2021-03-17/%E9%87%8D%E5%90%AFrunning/"/>
     <id>http://yun.fan/2021-03-17/%E9%87%8D%E5%90%AFrunning/</id>
     <published>2021-03-17T02:05:54.000Z</published>
-    <updated>2021-03-17T02:06:12.543Z</updated>
+    <updated>2021-03-17T02:06:22.925Z</updated>
     
     <content type="html"><![CDATA[<p>时隔一年，又开启了跑步计划，希望这次能坚持的久一点。</p><a id="more"></a><p>不管是被迫的还是享受这个过程，希望能有好的方面。</p><p>早点成了跑步的一大问题点，吃了吧害怕对胃不好，到公司吃吧又怕中间没力气。</p><p>其实任何事都一样，不能两全。那就只好顾此失彼了。</p><p>值得欣慰的一点是，全程2250米，基本一口气跑了下来，不想去年中间休息了好几次。当然也可能是今天跑得慢，还得兼顾着我怕冷的胃。</p><p>拼力一战吧，希望能赢！</p>]]></content>
     
@@ -38,7 +55,7 @@
     <link href="http://yun.fan/2021-03-16/%E8%A1%8C%E4%BA%BA/"/>
     <id>http://yun.fan/2021-03-16/%E8%A1%8C%E4%BA%BA/</id>
     <published>2021-03-16T02:05:26.000Z</published>
-    <updated>2021-03-17T02:05:43.768Z</updated>
+    <updated>2021-03-17T02:06:22.924Z</updated>
     
     <content type="html"><![CDATA[<p>又一次耗费巨资拿下一个几年前就觉得好看的域名，xing.ren，关键续费价格亲民，才35一年。到期日期是2029年。</p><a id="more"></a><p>希望后面的具体行动对得起这个域名，不要忘了买这个域名的初衷。</p><p>目前打算长期持有的域名，好多个了，后面慎入。</p><p>Yun.fan</p><p>Xing.ren</p><p>Dong.ge</p><p>Zhan.ge</p><p>letsgo.fun</p><p>Fenglangjuxu.com</p>]]></content>
     
@@ -336,23 +353,6 @@
     
     
     <summary type="html">&lt;p&gt;早上还和往常一样坐公交上班，上公交车站在了一个女的面前，全副武装，基本看不出来是大妈还是阿姨还是姐姐。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>关键时候php助我一臂之力</title>
-    <link href="http://yun.fan/2021-02-01/%E5%85%B3%E9%94%AE%E6%97%B6%E5%80%99php%E5%8A%A9%E6%88%91%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B/"/>
-    <id>http://yun.fan/2021-02-01/%E5%85%B3%E9%94%AE%E6%97%B6%E5%80%99php%E5%8A%A9%E6%88%91%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B/</id>
-    <published>2021-02-01T03:33:28.000Z</published>
-    <updated>2021-02-01T03:36:34.830Z</updated>
-    
-    <content type="html"><![CDATA[<p>年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。</p><a id="more"></a><p>今天虽然是周日，还在想着如何解密三方的数据。三方并没有给出明确的加密解密算法，但是我们的产品居然牛逼的用网上在线的工具解密出来了。</p><p>这就不得不让我加急搞这个事情，因为等周一就想和三方调试了，如果我没把加解密搞定，就有点被动了。</p><p>已经已知加密用的aes ecb 128 ，有秘钥有返回的加密数据，搜了下网上挺多例子的，但是就是解不出来。</p><p>看了php代码，特别简单，就一行代码。但是用php也解不出来。</p><p>几次尝试都无疾而终。最多就是php 和golang可以互通。</p><p>最后看了php的一篇文章，收到了启发，用php试了下，终于OK了。</p><p>我草！</p><p>Php的OK了，go的不在话下了。</p><p>关键时候，还得靠我的压箱底绝技。</p><p>想起一首歌&lt;&lt;我们陕西木有撒&gt;&gt;的一句歌词:</p><blockquote><p>当年联军把皇帝撵 一路狂奔来西安 慈禧老佛爷进潼关 关键时候靠老陕</p></blockquote>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;年底了，今年不像往年，都已经无心工作，准备请假回家过年了。还在到处救火，处理各种十万火急的事，忙的累的够呛。&lt;/p&gt;</summary>
     
     
     
