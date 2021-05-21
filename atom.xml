@@ -6,7 +6,7 @@
   <link href="http://yun.fan/atom.xml" rel="self"/>
   
   <link href="http://yun.fan/"/>
-  <updated>2021-05-18T02:53:04.258Z</updated>
+  <updated>2021-05-21T07:36:05.616Z</updated>
   <id>http://yun.fan/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一件高兴的事</title>
+    <link href="http://yun.fan/2021-05-21/%E4%B8%80%E4%BB%B6%E9%AB%98%E5%85%B4%E7%9A%84%E4%BA%8B/"/>
+    <id>http://yun.fan/2021-05-21/%E4%B8%80%E4%BB%B6%E9%AB%98%E5%85%B4%E7%9A%84%E4%BA%8B/</id>
+    <published>2021-05-21T07:35:51.000Z</published>
+    <updated>2021-05-21T07:36:05.616Z</updated>
+    
+    <content type="html"><![CDATA[<p>苦Mac自带的abc输入法久已，经常就自动切过去了，然后需要一顿操作。老早就有删掉他的想法，一直担心会产生副作用。比如删了之后，开机密码怎么输，进去恢复模式的时候，怎么打字。</p><a id="more"></a><p>最后想既然有人趟过这条路，应该没那么多的坑。那就干吧！</p><p>照着网上的教程，虽然教程的时间有点久远，没有影响到最后的成功。世界一下子清爽了许多。</p><p>还有我另一个平时倚重的ssh 软件，居然打不开了，每次都崩溃，都是我升级系统惹的祸。以后就停在当下这个版本不升级了。</p><p>如是乎网上找软件，下载安装，结果说软件损坏。这种情况真的是司空见惯了，也默默接受了，但是今天这个软件我必须得装一个。细看这个软件的安装说明，居然有这个问题的解决办法，抱着试试的态度，结果解决了，真是值得庆祝的一件事。</p><p>关键以后遇见了，就不用坐以待毙了，说不定这种办法也是可行的。</p><p>Mac Pro用了几年了，真的太适合搬砖的了。后面如果有需要，换新也肯定是Mac。买了一个Dell的，虽说也不错，但是没有可比性。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;苦Mac自带的abc输入法久已，经常就自动切过去了，然后需要一顿操作。老早就有删掉他的想法，一直担心会产生副作用。比如删了之后，开机密码怎么输，进去恢复模式的时候，怎么打字。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>道不同谋不同</title>
@@ -335,23 +352,6 @@
     
     
     <summary type="html">&lt;p&gt;今天小柠檬上学又哭的厉害了，晚上一提上学就开始哭，上学与她估计真的是很煎熬。可是她已经中班了。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>重启running</title>
-    <link href="http://yun.fan/2021-03-17/%E9%87%8D%E5%90%AFrunning/"/>
-    <id>http://yun.fan/2021-03-17/%E9%87%8D%E5%90%AFrunning/</id>
-    <published>2021-03-17T02:05:54.000Z</published>
-    <updated>2021-03-17T02:06:22.925Z</updated>
-    
-    <content type="html"><![CDATA[<p>时隔一年，又开启了跑步计划，希望这次能坚持的久一点。</p><a id="more"></a><p>不管是被迫的还是享受这个过程，希望能有好的方面。</p><p>早点成了跑步的一大问题点，吃了吧害怕对胃不好，到公司吃吧又怕中间没力气。</p><p>其实任何事都一样，不能两全。那就只好顾此失彼了。</p><p>值得欣慰的一点是，全程2250米，基本一口气跑了下来，不想去年中间休息了好几次。当然也可能是今天跑得慢，还得兼顾着我怕冷的胃。</p><p>拼力一战吧，希望能赢！</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;时隔一年，又开启了跑步计划，希望这次能坚持的久一点。&lt;/p&gt;</summary>
     
     
     
