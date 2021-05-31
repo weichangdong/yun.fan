@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yun.fan/2021-05-31/%E7%9B%98%E7%82%B9%E4%B8%8B%E6%9C%80%E8%BF%91%E4%B9%B0%E7%9A%84app/</loc>
+    
+    <lastmod>2021-05-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yun.fan/2021-05-28/%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E9%AB%98%E8%80%83%E5%8F%88%E6%9D%A5%E4%BA%86/</loc>
     
-    <lastmod>2021-05-28</lastmod>
+    <lastmod>2021-05-31</lastmod>
     
   </url>
   
@@ -65,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://yun.fan/2021-05-04/%E6%9D%91%E9%87%8C%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD%E6%98%AF%E9%9D%9E%E5%A4%9A/</loc>
+    <loc>http://yun.fan/2021-05-01/%E6%9C%89%E4%BA%9B%E4%BA%8B%E6%83%85%E6%97%A0%E8%A7%A3/</loc>
     
     <lastmod>2021-05-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yun.fan/2021-05-01/%E6%9C%89%E4%BA%9B%E4%BA%8B%E6%83%85%E6%97%A0%E8%A7%A3/</loc>
+    <loc>http://yun.fan/2021-05-04/%E6%9D%91%E9%87%8C%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD%E6%98%AF%E9%9D%9E%E5%A4%9A/</loc>
     
     <lastmod>2021-05-11</lastmod>
     
@@ -1152,7 +1159,7 @@
 
   <url>
     <loc>http://yun.fan/</loc>
-    <lastmod>2021-05-28</lastmod>
+    <lastmod>2021-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1160,14 +1167,14 @@
   
   <url>
     <loc>http://yun.fan/tags/%E8%AE%BA%E8%8B%B1%E9%9B%84/</loc>
-    <lastmod>2021-05-28</lastmod>
+    <lastmod>2021-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yun.fan/tags/%E5%85%84%E5%BC%9F/</loc>
-    <lastmod>2021-05-28</lastmod>
+    <lastmod>2021-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
