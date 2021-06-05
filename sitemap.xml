@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yun.fan/2021-06-05/%E5%A6%82%E6%9E%9C%E6%98%AF%E8%AF%B7%E5%AE%BD%E5%BF%83/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yun.fan/2021-05-31/%E7%9B%98%E7%82%B9%E4%B8%8B%E6%9C%80%E8%BF%91%E4%B9%B0%E7%9A%84app/</loc>
     
     <lastmod>2021-05-31</lastmod>
@@ -555,14 +562,14 @@
   </url>
   
   <url>
-    <loc>http://yun.fan/2020-12-03/%E4%BA%91%E8%88%A4%E5%85%84%E5%BC%9F%E4%B9%8B%E4%BC%9D%E6%A2%B5/</loc>
+    <loc>http://yun.fan/2020-12-03/%E4%BA%91%E8%88%A4%E5%85%84%E5%BC%9F%E4%B9%8B%E4%BA%91%E5%B8%86/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yun.fan/2020-12-03/%E4%BA%91%E8%88%A4%E5%85%84%E5%BC%9F%E4%B9%8B%E4%BA%91%E5%B8%86/</loc>
+    <loc>http://yun.fan/2020-12-03/%E4%BA%91%E8%88%A4%E5%85%84%E5%BC%9F%E4%B9%8B%E4%BC%9D%E6%A2%B5/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
@@ -1159,7 +1166,7 @@
 
   <url>
     <loc>http://yun.fan/</loc>
-    <lastmod>2021-05-31</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1167,14 +1174,14 @@
   
   <url>
     <loc>http://yun.fan/tags/%E8%AE%BA%E8%8B%B1%E9%9B%84/</loc>
-    <lastmod>2021-05-31</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yun.fan/tags/%E5%85%84%E5%BC%9F/</loc>
-    <lastmod>2021-05-31</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
