@@ -2,21 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yun.fan/2023-10-16/%E5%B9%BF%E5%8E%A6%E5%8D%83%E4%B8%87%E9%97%B4%E5%AF%92%E5%A3%AB%E4%B8%80%E5%A4%A7%E7%89%87/</loc>
-    
-    <lastmod>2023-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yun.fan/2023-10-16/%E4%BA%86%E5%8D%B4%E5%90%9B%E7%8E%8B%E5%A4%A9%E4%B8%8B%E4%BA%8B/</loc>
-    
-    <lastmod>2023-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yun.fan/2023-10-16/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%BE%8E/</loc>
+    <loc>http://yun.fan/2023-10-16/%E6%88%91%E7%9A%84%E5%9B%BD%E5%86%85%E5%8D%9A%E5%AE%A2%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -30,7 +16,14 @@
   </url>
   
   <url>
-    <loc>http://yun.fan/2023-10-16/%E6%88%91%E7%9A%84%E5%9B%BD%E5%86%85%E5%8D%9A%E5%AE%A2%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E/</loc>
+    <loc>http://yun.fan/2023-10-16/%E5%B9%BF%E5%8E%A6%E5%8D%83%E4%B8%87%E9%97%B4%E5%AF%92%E5%A3%AB%E4%B8%80%E5%A4%A7%E7%89%87/</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yun.fan/2023-10-16/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%BE%8E/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -38,6 +31,13 @@
   
   <url>
     <loc>http://yun.fan/2023-10-16/%E4%BA%BA%E7%94%9F%E6%80%BB%E5%9C%A8%E5%B7%A6%E5%8F%B3%E5%BE%98%E5%BE%8A/</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yun.fan/2023-10-16/%E4%BA%86%E5%8D%B4%E5%90%9B%E7%8E%8B%E5%A4%A9%E4%B8%8B%E4%BA%8B/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -2468,7 +2468,7 @@
 
   <url>
     <loc>http://yun.fan/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <lastmod>2023-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -2476,14 +2476,14 @@
   
   <url>
     <loc>http://yun.fan/tags/%E5%85%84%E5%BC%9F/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <lastmod>2023-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yun.fan/tags/%E8%AE%BA%E8%8B%B1%E9%9B%84/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <lastmod>2023-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
