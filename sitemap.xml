@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yun.fan/2025-01-22/%E4%B9%A6%E5%89%91%E4%B8%A4%E8%8C%AB%E8%8C%AB/</loc>
+    
+    <lastmod>2025-01-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yun.fan/2025-01-13/%E7%BB%8F%E9%AA%8C%E5%BE%88%E5%AE%9D%E8%B4%B5/</loc>
     
     <lastmod>2025-01-13</lastmod>
@@ -3252,7 +3259,7 @@
 
   <url>
     <loc>http://yun.fan/</loc>
-    <lastmod>2025-01-13</lastmod>
+    <lastmod>2025-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -3260,14 +3267,14 @@
   
   <url>
     <loc>http://yun.fan/tags/%E5%85%84%E5%BC%9F/</loc>
-    <lastmod>2025-01-13</lastmod>
+    <lastmod>2025-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yun.fan/tags/%E8%AE%BA%E8%8B%B1%E9%9B%84/</loc>
-    <lastmod>2025-01-13</lastmod>
+    <lastmod>2025-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
